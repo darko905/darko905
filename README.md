@@ -1,4 +1,3 @@
-### Hi there 👋
 ### 👋 Hi, I’m Darko Djukic.
 ### 👀 I’m interested in field of Web programming.
 ### 🌱 I’m currently learning JavaScript and React JS.
